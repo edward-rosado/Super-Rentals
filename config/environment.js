@@ -7,6 +7,7 @@ module.exports = function(environment) {
     environment,
     rootURL: '/',
     locationType: 'auto',
+    GOOGLE_MAPS_API_KEY: 'AIzaSyC1iQfb7fDCFDPfBfFiN3Q2VxO_QVRfdL0',
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
